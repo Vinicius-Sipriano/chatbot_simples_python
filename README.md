@@ -1,0 +1,1 @@
+# Chatbot simples com API da Openai em Python
